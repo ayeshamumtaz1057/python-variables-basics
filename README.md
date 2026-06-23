@@ -1,12 +1,15 @@
 
-# Python Variables Basics
+# Python Variables Basics 
 
-This repository contains beginner Python programs covering:
+This repository contains beginner Python programs.
 
+## Topics Covered
 - Variables
 - Data Types
-- Input/Output
+- Input and Output
 - Naming Rules
 - Constants
 
-Created as part of my Python learning journey.
+## Author
+Ayesha Mumtaz
+BS Information Technology - 5th Semester
