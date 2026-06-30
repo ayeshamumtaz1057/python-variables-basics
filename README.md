@@ -32,4 +32,4 @@ becoming a Data Analyst.
 
 ## 📈 Status
 ✅ Completed
-# Updated
+# updated
