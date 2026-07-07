@@ -27,7 +27,7 @@ becoming a Data Analyst.
 
 ## 👩‍💻 Author
 **Ayesha Mumtaz** — BS IT Student  
-📍 Bahwalpur,Punjab, Pakistan  
+📍 Bahwalpur,Punjab, Pakistan.  
 🔗 [LinkedIn](https://www.linkedin.com/in/ayesha-mumtaz-82b8913a9)
 
 ## 📈 Status
